@@ -1,7 +1,7 @@
 {
     "name": "Foldaria-Launcher",
     "preductname": "Foldaria Launcher",
-    "version": "1.0.0",
+    "version": "1.0.6",
     "description": "Launcher officiel de Foldaria",
     "main": "src/app.js",
     "author": "Luuxis, royaly_games",
