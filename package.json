@@ -2,10 +2,10 @@
     "name": "Foldaria-Launcher",
     "preductname": "Foldaria Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft custom (premium)",
+    "description": "Launcher officiel de Foldaria",
     "main": "src/app.js",
     "author": "Luuxis, royaly_games",
-    "url": "http://launcher.selvania.fr",
+    "url": "http://2f56.foldaria.fr",
     "engines": {
         "node": "16.x.x"
     },
